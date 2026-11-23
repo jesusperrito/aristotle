@@ -22,7 +22,7 @@ Draw on AH_icon_grid_template.svg: 24 grid, 2 unit margin, 1.6 stroke, round cap
 Export PNG 600 px and run through the tool with the "Icon · heat" preset.
 
 ## 4. Marks (marks/)
-The gaze icon (light and dark), the profile study, the hallmark (plain and in a circle). The profile and hallmark are studies, to be redrawn as final masters.
+The gaze icon (for dark and light grounds) and the seal (the A, and the A in a square), in bone and ink.
 
 Colours: Ink #0B0A0F · Charcoal #2E2E31 · Bone #F2EFE8 · Lyceum violet #4B2EF5 · Lilac #C7B8FF · Signal pink #FF4FB4
 Type: Zalando Sans Expanded (logo and headlines) · Aktiv Grotesk (text and readouts)
